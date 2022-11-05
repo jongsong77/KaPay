@@ -45,7 +45,7 @@
 
 ```
 ### 백엔드 빌드
-$ git clone https://github.com/[my url].git
+$ git clone https://github.com/jongsong77/KaPay.git
 $ cd KaPayBE
 $ gradlew clean build
 
