@@ -50,6 +50,7 @@ $ cd KaPayBE
 $ gradlew clean build
 
 ### 프론트엔드 빌드
+$ cd KaPayFE
 $ npm install
 $ npm run build
 
