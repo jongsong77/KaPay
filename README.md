@@ -54,7 +54,7 @@ $ npm install
 $ npm run build
 
 ### 실행 방법 //프론트,백엔드 한번에 실행 가능
-$ java -jar /KaPayBE/build/libs/kakaopay-task3-0.0.1-SNAPSHOT.jar
+$ java -jar /KaPayBE/build/libs/KaPayBE-0.0.1-SNAPSHOT.jar
 
 http://localhost:8001 에서 프로젝트 확인 가능
 
